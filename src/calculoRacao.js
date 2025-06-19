@@ -14,14 +14,6 @@ function calcularRacaoCao (porte, peso) {
   if (porte === 'G') return peso * 30;
 }
 
-// Funções antigas 
-let caoP = (kg) => kg * 10;
-let caoM = (kg) => kg * 20;
-let caoG = (kg) => kg * 30;
-
 module.exports = {
   calcularRacaoCao,
-  caoP,
-  caoM,
-  caoG
 };
