@@ -1,0 +1,5 @@
+[
+  { "porte": "P", "peso": 2, "resultado": 20 },
+  { "porte": "M", "peso": 10, "resultado": 200 },
+  { "porte": "G", "peso": 30, "resultado": 900 }
+]
